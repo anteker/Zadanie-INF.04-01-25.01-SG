@@ -5,4 +5,4 @@
 - 📄 [Arkusz](./pliki/inf_04_2025_01_01_SG.pdf)
 - 📦 [Pliki do zadania](./pliki/pliki3.zip)
 - 📝 [Zasady oceniania](./pliki/inf_04_2025_01_01_SG_zo.pdf)
-- 📸 [Podgląd rozwiązania](./pliki/zrzut.png)
+- 📸 [Podgląd rozwiązania](./pliki/dzialanie.png)
