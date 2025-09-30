@@ -2,6 +2,7 @@
 
 **Zadanie: INF.04-01-25.01-SG**
 
-- 📄 [Arkusz](./inf_04_2025_01_01_SG.pdf)
-- 📦 [Pliki do zadania](./pliki3.zip)
-- 📝 [Zasady oceniania](./inf_04_2025_01_01_SG_zo.pdf)
+- 📄 [Arkusz](./pliki/inf_04_2025_01_01_SG.pdf)
+- 📦 [Pliki do zadania](./pliki/pliki3.zip)
+- 📝 [Zasady oceniania](./pliki/inf_04_2025_01_01_SG_zo.pdf)
+- 📸 [Podgląd rozwiązania](./pliki/zrzut.png)
